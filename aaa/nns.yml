@@ -8,4 +8,4 @@ name: aaadev
 ---
 spring:
   profiles: test
-name: aaatest
+name: xiugaigai
